@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -la .. /boot
+ls -l -la /0x00-shell_engineering-devops .. /boot
